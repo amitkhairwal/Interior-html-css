@@ -1,11 +1,11 @@
-# Project-10 HTML & CSS Full Stack Web Development Course
+# Project HTML & CSS Full Stack Web Development Course
 
-![image](https://img.shields.io/badge/iNeuron-Full--Stack%20JavaScript%20Web%20Development%20Course-blue)
-![image](https://img.shields.io/badge/Hitesh%20Choudhry-LOC-brightgreen)
+![Static Badge](https://img.shields.io/badge/imarticus-Full--Stack%20Web%20Development%20Course-blue?style=flat&labelColor=gray)
 ![image](https://img.shields.io/badge/HTML-CSS-orange)
-![image](https://img.shields.io/badge/Project-10-blue)
 
-![image](https://img.shields.io/badge/Rohtash-Talan-blue)
+
+![Static Badge](https://img.shields.io/badge/Amit-Kumar-blue?style=flat&labelColor=gray)
+
 
 [<img src= "https://img.shields.io/badge/projcet live link-10b?style=for-the-badge&logo=&logoColor=white" />](https://ineuron-html-css-10.netlify.app/)
 

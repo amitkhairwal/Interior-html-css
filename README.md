@@ -7,7 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/Amit-Kumar-blue?style=flat&labelColor=gray)
 
 
-[<img src= "https://img.shields.io/badge/projcet live link-10b?style=for-the-badge&logo=&logoColor=white" />](https://ineuron-html-css-10.netlify.app/)
+[<img src= "https://img.shields.io/badge/projcet live link-10b?style=for-the-badge&logo=&logoColor=white" />](https://imarticus-fsd-html-css.netlify.app/)
 
 ## About
 
@@ -25,4 +25,4 @@ This project took me around 2 and half hour to finish.
 
 ![image](./Screenshot.png)
 
-[<img src= "https://img.shields.io/badge/PROJCET LINK-20b?style=for-the-badge&logo=&logoColor=white" />](https://ineuron-html-css-10.netlify.app/)
+[<img src= "https://img.shields.io/badge/PROJCET LINK-20b?style=for-the-badge&logo=&logoColor=white" />](https://imarticus-fsd-html-css.netlify.app/)
